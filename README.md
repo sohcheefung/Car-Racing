@@ -1,6 +1,6 @@
 # Noob-Racer  
 ### About  
-A first game i made by using Unity is a simple 2D car racing game.  
+A first game I made by using Unity is a simple 2D car racing game.  
 ### Platform   
 Android  
 ### Screenshots  
